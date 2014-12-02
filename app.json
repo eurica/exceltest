@@ -1,0 +1,6 @@
+{
+  "name": "Excel import test",
+  "description": "A barebones excel import",
+  "repository": "https://github.com/eurica/exceltest",
+  "keywords": ["excel", "table"]
+}
